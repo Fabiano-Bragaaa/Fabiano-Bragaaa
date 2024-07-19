@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
 </div>
 
 ###
@@ -53,3 +54,5 @@
 <img src="https://raw.githubusercontent.com/Fabiano-Bragaaa/Fabiano-Bragaaa/output/snake.svg" alt="Snake animation" />
 
 ###
+
+

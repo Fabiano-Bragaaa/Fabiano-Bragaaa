@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Fabiano Braga. E eu sou um programador mobile</h2>
+<h2 align="left">E ae, tudo bem?👋 Meu nome é Fabiano Braga. </h2>
 
 ###
 

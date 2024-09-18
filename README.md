@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/7APN76T8eAQAAAAM/guts.gif"  />
+<img align="right" height="200" src="https://irmaosestoicos.com/wp-content/uploads/2023/08/musashi-musashi-miyamoto-1.gif"  />
 
 ###
 

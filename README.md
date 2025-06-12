@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
-  <img src="https://icon.icepanel.io/Technology/svg-shadow-512/Fastify.svg" height="30" alt="fastify logo" /> 
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Fastify.png" height="30" alt="fastify logo" /> 
   <img width="12" />
 
 </div>

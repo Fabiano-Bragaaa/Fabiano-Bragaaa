@@ -42,7 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/detain/svg-logos@master/svg/fastify.svg" height="30" alt="fastify logo" style="vertical-align: middle;" />
+
   <img width="12" />
 
   <img src="https://raw.githubusercontent.com/fastify/graphics/main/fastify-1000px.png" height="30" alt="fastify logo" style="vertical-align: middle;" />

@@ -45,7 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
   <!-- Fastify com o SVG alinhado -->
-  <img src="https://iconduck.com/icons/744/fastify.svg" height="30" alt="fastify logo" style="vertical-align: middle;" />
+ <img src="https://cdn.jsdelivr.net/gh/detain/svg-logos@master/svg/fastify.svg" height="30" alt="fastify logo" style="vertical-align: middle;" />
+
 </div>
 
 

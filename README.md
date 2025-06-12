@@ -45,7 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
 
-  <img src="https://fastify.io/images/fastify-logo.svg" height="30" alt="fastify logo" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/fastify/graphics/main/fastify-1000px.png" height="30" alt="fastify logo" style="vertical-align: middle;" />
+
 </div>
 
 ###

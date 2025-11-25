@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/fabiano-braga-0670492b0/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5585981888363&text&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5585994298029&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
